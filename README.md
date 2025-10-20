@@ -3,9 +3,10 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=elodie28232" alt="elodie28232" />
+    <img src="https://github-profile-trophy.vercel.app/?username=elodie28232&theme=dracula&title=Repositories,Commits,Experience" alt="elodie28232 trophies" />
   </a>
 </p>
+
 
 - 🔭 I’m currently working on **retro dressup game**  
 - 🌱 I’m currently learning **advanced programming concepts in C#**  
@@ -101,10 +102,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 </div>
 
----
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Elodie28232/Elodie28232/output/snake.svg" alt="Snake animation" />
 
----
+
