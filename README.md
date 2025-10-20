@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elodie</h1>
 <h3 align="center">A passionate IT student from Belgium</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=elodie28232&theme=dracula&title=Repositories,Commits,Experience" alt="elodie28232 trophies" />
   </a>
