@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT student from Belgium</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elodie28232&theme=dracula&title=Repositories,Commits,Experience,Stars" alt="elodie28232 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elodie28232&theme=dracula&title=Repositories,Commits,Experience" alt="elodie28232 trophies" />
 </p>
 
 
