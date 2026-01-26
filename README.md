@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Elodie</h1>
+<h1 align="center">Hi, I'm Elodie</h1>
 <h3 align="center">A passionate IT student from Belgium</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elodie28232&theme=dracula&title=Repositories,Commits,Experience" alt="elodie28232 trophies" />
-</p>
-
-
-
-- 🔭 I’m currently working on **retro dressup game**  
-- 🌱 I’m currently learning **advanced programming concepts in C#**  
-- 💬 Ask me about **my university experience**  
-- 📫 How to reach me **elodie.cannon@gmail.com**  
-- ⚡ Fun fact **I have 2 cats**
+- I’m currently working on **retro dressup game**  
+- I’m currently learning **advanced programming concepts in C#**  
+- Ask me about **my university experience or thesis**  
+- How to reach me **elodie.cannon@gmail.com**  
+- Fun fact **I have 2 cats**
 
 ---
 
